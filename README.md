@@ -1,10 +1,20 @@
+
 \
 easy!
 VSDVSDVSDVSDVSD
 Traitor package
 s up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
+=======
+dddd
+dfdaf
+# Traitor
 
-![Demo](demo.gif)
+Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
+
+Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
+
+
+![Demo](demo.gif) czml cklm lmvsdkvmdskvmsdkvmdak
 
 It'll exploit most sudo privileges listed in GTFOBins to pop a root shell, as well as exploiting issues like a writable `docker.sock`, or the recent polkit CVE-2021-4034. More routes to root will be added over time too.
 
