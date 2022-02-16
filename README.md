@@ -1,8 +1,9 @@
-# Traitor
-
-Automatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
-
-Traitor packages up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
+dvddDGVSDVDSVSCVSVSDVSDVSDVSDVSDVSDVSDVSDVSDVSDVSDV# Traitor
+SDVSD
+AutomVSDVSDVSDVSDVDatically exploit low-hanging fruit to pop a root shell. Linux privilege escalation made easy!
+VSDVSDVSDVSDVSD
+Traitor package
+s up a bunch of methods to exploit local misconfigurations and vulnerabilities (including most of [GTFOBins](https://gtfobins.github.io/)) in order to pop a root shell.
 
 ![Demo](demo.gif)
 
